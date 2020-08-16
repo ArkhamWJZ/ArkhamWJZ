@@ -1,4 +1,4 @@
-### ArkhamWJZ 🥳
+### ArkhamWJZ 🐞🧐📝💻✅🥳
 
 <!--
 **ArkhamWJZ/ArkhamWJZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**If you have too many special cases, you are doing it wrong**
+
 ![](https://img.shields.io/badge/C++-ff8080?logo=C++)
 ![](https://img.shields.io/badge/Python-80bfff?logo=Python)
+![](https://img.shields.io/badge/Swift-ffd9b3?logo=Swift)
+![](https://img.shields.io/badge/Java-cc9966?logo=Java)
+
+
+![](https://img.shields.io/badge/OpenGL-balck?logo=OpenGL)
+![](https://img.shields.io/badge/realm-80bfff?logo=realm)
 ![](https://img.shields.io/badge/Swift-ffd9b3?logo=Swift)
 ![](https://img.shields.io/badge/Java-cc9966?logo=Java)
 
