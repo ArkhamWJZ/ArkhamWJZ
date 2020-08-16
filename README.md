@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 
 
+![1](./images/1.jpg)
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArkhamWJZ&hide=stars&count_private=true&theme=dracula)](https://github.com/ArkhamWJZ/ArkhamWJZ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamWJZ&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/ArkhamWJZ/ArkhamWJZ)
