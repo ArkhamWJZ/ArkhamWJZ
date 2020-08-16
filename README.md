@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=ArkhamWJZ&theme=radical) 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArkhamWJZ&hide=stars&count_private=true&theme=dracula)](https://github.com/ArkhamWJZ/ArkhamWJZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamWJZ&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/ArkhamWJZ/ArkhamWJZ)
