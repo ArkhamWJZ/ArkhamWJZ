@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **If you have too many special cases, you are doing it wrong**
 
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/4aPEhTsW1vz4A/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/4aPEhTsW1vz4A/giphy.gif" width=36% />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArkhamWJZ&hide=stars&count_private=true&theme=dracula)](https://github.com/ArkhamWJZ/ArkhamWJZ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkhamWJZ&layout=compact&hide=HTML&theme=dracula&count_private=true)](https://github.com/ArkhamWJZ/ArkhamWJZ)
